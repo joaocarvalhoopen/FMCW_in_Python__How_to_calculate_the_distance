@@ -23,6 +23,9 @@ You can simulate a target distance and confirm that you detected the correct rec
 ## The result of the Cepstrum
 ![cepstrum of the microphone signal](./cepstrum.png)
 
+## Calculated distance to the target
+![calculated_distance_to_the_target](./calculated_distance_to_the_target.png)
+
 ## References
 * Stimson's Introduction to Airborne Radar, 3th Edition  <br>
   by George W. Stimson, Hugh D. Griffiths, et al.
